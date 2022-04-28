@@ -155,7 +155,7 @@ async def astrology(ctx:commands.Context):
 
 
 #Runs bot and contains bot token, see what to do with this later
-bot.run('ODkxOTMyMjQ2MzAxMzQ3ODUw.YVFiog.ZjFkUIXalxsyeU9JvTCv-lzGJLk')
+bot.run('secret key')
 #----------------------------------------------------------------------------------------
 
 # Quick Access
